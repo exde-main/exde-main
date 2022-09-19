@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @exde-main
-- 👀 I’m interested in She
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in She 
+- 🌱 I’m currently learning patience
+- 💞️ I’m looking to collaborate on isekai
 - 📫 How to reach me ...
 
 <!---
